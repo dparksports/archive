@@ -1,0 +1,9 @@
+# First, ignore everything
+*
+*.*
+
+# Then, un-ignore Python files
+!*.py
+
+# Also un-ignore your .gitignore file
+!.gitignore
